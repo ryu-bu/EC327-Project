@@ -1,3 +1,7 @@
+This is a final project for EC327 Intro to Software Engineering class. This is a game made in C# with Unity. 
+
+--The description of this project starts from here--
+
 # EC327-Project
 Team name: The College Drop-Outs
 Group Members: Dev Bhatia, Ryuichi Ohhata, Zhiyuan Liu, Justin Lam, James Wasson
