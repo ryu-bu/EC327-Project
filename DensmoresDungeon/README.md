@@ -1,4 +1,5 @@
-This is a final project for EC327 Intro to Software Engineering class. This is a game made in C# with Unity. 
+This is a final project for EC327 Intro to Software Engineering class. This is a video game made in C# with Unity.
+DOC directory contains the documentation for this game, and SRC contains the game files. 
 
 --The description of this project starts from here--
 
